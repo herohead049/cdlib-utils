@@ -1,25 +1,25 @@
 {
-    "name": "cdlib-utils",
-    "version": "1.0.0",
-    "description": "cdlib utils",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/herohead049/cdlib-utils.git"
-    },
-    "author": "Craig David",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/herohead049/cdlib-utils/issues"
-    },
-    "homepage": "https://github.com/herohead049/cdlib-utils#readme",
-    "dependencies": {
-        "cdlib-server": "0.0.1",
-        "chalk": "^1.1.0",
-        "moment": "^2.10.3",
-        "winston": "^1.0.1"
-    }
+  "name": "cdlib-utils",
+  "version": "1.0.0",
+  "description": "cdlib utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herohead049/cdlib-utils.git"
+  },
+  "author": "Craig David",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/herohead049/cdlib-utils/issues"
+  },
+  "homepage": "https://github.com/herohead049/cdlib-utils#readme",
+  "dependencies": {
+    "cdlib-server": "^1.0.0",
+    "chalk": "^1.1.0",
+    "moment": "^2.10.3",
+    "winston": "^1.0.1"
+  }
 }
